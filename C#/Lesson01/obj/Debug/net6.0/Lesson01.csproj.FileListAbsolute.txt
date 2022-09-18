@@ -1,0 +1,16 @@
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\bin\Debug\net6.0\Lesson01.exe
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\bin\Debug\net6.0\Lesson01.deps.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\bin\Debug\net6.0\Lesson01.runtimeconfig.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\bin\Debug\net6.0\Lesson01.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\bin\Debug\net6.0\ref\Lesson01.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\bin\Debug\net6.0\Lesson01.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\obj\Debug\net6.0\Lesson01.GlobalUsings.g.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\obj\Debug\net6.0\Lesson01.csproj.AssemblyReference.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\obj\Debug\net6.0\Lesson01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\obj\Debug\net6.0\Lesson01.AssemblyInfoInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\obj\Debug\net6.0\Lesson01.AssemblyInfo.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\obj\Debug\net6.0\Lesson01.csproj.CoreCompileInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\obj\Debug\net6.0\Lesson01.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\obj\Debug\net6.0\ref\Lesson01.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\obj\Debug\net6.0\Lesson01.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\Lesson01\obj\Debug\net6.0\Lesson01.genruntimeconfig.cache
