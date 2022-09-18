@@ -1,0 +1,16 @@
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\obj\Debug\net6.0\03.GlobalUsings.g.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\obj\Debug\net6.0\03.csproj.AssemblyReference.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\obj\Debug\net6.0\03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\obj\Debug\net6.0\03.AssemblyInfoInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\obj\Debug\net6.0\03.AssemblyInfo.cs
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\obj\Debug\net6.0\03.csproj.CoreCompileInputs.cache
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\bin\Debug\net6.0\03.exe
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\bin\Debug\net6.0\03.deps.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\bin\Debug\net6.0\03.runtimeconfig.json
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\bin\Debug\net6.0\03.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\bin\Debug\net6.0\ref\03.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\bin\Debug\net6.0\03.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\obj\Debug\net6.0\03.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\obj\Debug\net6.0\ref\03.dll
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\obj\Debug\net6.0\03.pdb
+C:\Users\UpGrade\OneDrive\Рабочий стол\Programlanguages\C#\03\obj\Debug\net6.0\03.genruntimeconfig.cache
