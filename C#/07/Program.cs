@@ -2,7 +2,7 @@
 // 456 -> 46 782 -> 72 918 -> 98
 int number = new Random().Next(100, 1000); 
 
-int firstDigit = number / 100;
-int thirDigit = number % 10;
-
-Console.WriteLine($"Первая и третья цифра числа {number} - это {firstDigit*10 + thirDigit}");
+int firstDigit = number / 100; //456 -> 4
+int thirDigit = number % 10;  // 456 -> 6
+// 4,6 => 46
+Console.WriteLine($"Первая и третья цифра числа {number} - это {firstDigit*10 + thirDigit}"); // 46    4 десятка и 6 единиц - 4*10+6 = 46
