@@ -30,9 +30,13 @@ int GetCountNumbers (int num) //переменная может называть
     {
         count++;
         num /= 10;  // знак равно значит что мы результат сохраняем в эту переменную num.
+        
     }
-    return count; // кол-во цифр в числе
+    return num; // кол-во цифр в числе
 }
 Console.WriteLine(GetCountNumbers(number));
+
+
+
 
 
